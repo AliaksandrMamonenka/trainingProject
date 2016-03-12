@@ -1,0 +1,9 @@
+.parent {
+  color: blue;
+  display: flex;
+}
+
+.parent .child {
+  color: red;
+  width: 200px;
+}
